@@ -5,7 +5,7 @@ sush = ["лес", 'осетр', 'мальчик', 'дуб', 'собака', 'ф�
 
 r = random.choice(pril)
 a = random.choice(sush)
-print(f"{r} {a}")
+print(f"{r}  {a}")
 
 
 
